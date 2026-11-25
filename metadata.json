@@ -1,0 +1,8 @@
+{
+  "name": "Nepal Runner 3D",
+  "description": "A 3D third-person Nepali endless runner adventure through ancient pagoda temples, Himalayan trails, jungles, Kathmandu heritage courtyards, and Everest ridges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
